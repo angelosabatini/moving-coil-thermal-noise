@@ -90,8 +90,15 @@ The scripts require no measured or externally supplied data.
 
 ## Citation
 
-If you use this code, please cite the accompanying paper:
+The software archived with this repository is available from Zenodo:
+
+> **A. M. Sabatini (2026)**  
+> *MATLAB code for “Thermal fluctuations and electronic readout using a moving-coil movement”*  
+> Version 1.0.1, Zenodo.  
+> DOI: 10.5281/zenodo.23171269
+
+If you use this code, please also cite the accompanying paper:
 
 > **A. M. Sabatini**,  
-> **Thermal fluctuations and electronic readout using a moving-coil movement**,  
-> *European Journal of Physics*, submitted.  
+> *Thermal fluctuations and electronic readout using a moving-coil movement*,  
+> *European Journal of Physics*, submitted. 
